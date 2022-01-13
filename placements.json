@@ -1,0 +1,114 @@
+[
+  {
+    company: "Zoho",
+    domain: "Frontend",
+    ctc: "10",
+    date: new Date("2020-10-16"),
+    students: [
+      {
+        name: "Om Balapure",
+        phone: 1234,
+        email: "om@gmail.com",
+        batch: "B26WE",
+        experience: 2,
+        graduation: 2019,
+        degree: "BE",
+        branch: "CSE"
+      },
+      {
+        name: "Hari Balapure",
+        phone: 5678,
+        email: "hari@gmail.com",
+        batch: "B25WD",
+        experience: 3,
+        graduation: 2018,
+        degree: "BE",
+        branch: "MECH"
+      }, 
+      {
+        name: "Ankita",
+        phone: 1212,
+        email: "anki@gmail.com",
+        batch: "B25WD",
+        experience: 8,
+        graduation: 2015,
+        degree: "BE",
+        branch: "ECE"
+      },
+    ]
+  },
+  {
+    company: "PayTM",
+    domain: "Backend",
+    ctc: "8",
+    date: new Date("2020-10-20") ,
+    students: [
+      {
+        name: "Shirsha",
+        phone: 6756,
+        email: "shirsha@gmail.com",
+        batch: "B23WE",
+        experience: 10,
+        graduation: 2010,
+        degree: "BE",
+        branch: "CSE"
+      },
+      {
+        name: "Shiksha",
+        phone: 5436,
+        email: "shiksha@gmail.com",
+        batch: "B25WD",
+        experience: 5,
+        graduation: 2015,
+        degree: "MCA",
+        branch: "CSE"
+      },
+    ]
+  },
+  {
+    company: "Paypal",
+    domain: "Fullstack",
+    ctc: "15",
+    date: new Date("2020-10-30"),
+    students: [
+      {
+        name: "Shiksha",
+        phone: 5436,
+        email: "shiksha@gmail.com",
+        batch: "B25WD",
+        experience: 5,
+        graduation: 2015,
+        degree: "MCA",
+        branch: "CSE"
+      },
+      {
+        name: "Satyam",
+        phone: 4463,
+        email: "satya@gmail.com",
+        batch: "B23WE",
+        experience: 0,
+        graduation: 2022,
+        degree: "BE",
+        branch: "CSE"
+      },
+    ]
+  },
+  {
+    company: "Freshworks",
+    domain: "DBA Admin",
+    ctc: "30",
+    date: new Date("2020-11-10"),
+    students: [
+      {
+        name: "Satyam",
+        phone: 4463,
+        email: "satya@gmail.com",
+        batch: "B23WE",
+        experience: 0,
+        graduation: 2022,
+        degree: "BE",
+        branch: "CSE"
+      },
+    ]
+  }
+]

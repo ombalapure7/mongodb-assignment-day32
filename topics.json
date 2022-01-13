@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Javascript",
+    "date": ISOdate("2020-10-20T11:00:00.000"),
+    "tasks": [
+      { 
+        "name": "JS Request and Response",
+        "content": ["HTTP Methods", "How the Server looks at the URL", "IP & MAC Address", "Request & Response cycle"],
+      }
+    ]
+  },
+  {
+    "name": "Javascript",
+    "date": ISOdate("2020-10-23T11:00:00.000"),
+    "tasks": [
+      { 
+        "name": "JS Request and Response",
+        "content": ["HTTP Methods", "How the Server looks at the URL", "IP & MAC Address", "Request & Response cycle"],
+      }
+    ]
+  },
+  {
+    "name": "HTML/CSS",
+    "date": ISOdate("2020-10-25T11:00:00.000"),
+    "tasks": [
+      { 
+        "name": "HTML and CSS",
+        "content": ["Box Model", "Forms", "Grids"],
+      }
+    ]
+  },
+  {
+    "name": "ReactJS",
+    "date": ISOdate("2020-10-31T11:00:00.000"),
+    "tasks": [
+      { 
+        "name": "JS Request and Response",
+        "content": ["Virtual DOM", "Hooks", "HTTP Calls"],
+      }
+    ]
+  }
+]
